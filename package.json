@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sisula/cobrabot.git"
+    "url": "git+https://github.com/SLTechnicalTipsYT/COBRA-BOT.git"
   },
   "keywords": [
     "whatsapp",
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated/issues"
   },
-  "homepage": "https://github.com/sisula/cobrabot#readme",
+  "homepage": "https://github.com/SLTechnicalTipsYT/COBRA-BOT#readme",
   "dependencies": {
     "cobrabot": "^1.0.23"
   }
