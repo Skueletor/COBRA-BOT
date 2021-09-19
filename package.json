@@ -1,0 +1,37 @@
+{
+  "name": "cobrabot",
+  "version": "1.0.1",
+  "description": "cobrabot happy for whatsapp.",
+  "main": "./ceb5ace3/bot.js",
+  "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisula/cobrabot.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "cobra",
+    "api",
+    "unlimited",
+    "asenadev",
+    "machine learning",
+    "automatic",
+    "whatsapp web",
+    "whatsapp api",
+    "cobrabot"
+  ],
+  "author": "sisula",
+  "developer": "sisula",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated/issues"
+  },
+  "homepage": "https://github.com/sisula/cobrabot#readme",
+  "dependencies": {
+    "cobrabot": "^1.0.23"
+  }
+}
