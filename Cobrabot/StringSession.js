@@ -26,7 +26,7 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'cobrabot;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'COBRA;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
