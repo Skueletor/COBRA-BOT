@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Sf0gmailcomceb5ace3/ceb5ace3 /root/wabotcobra
+RUN git clone https://github.com/SLTechnicalTipsYT/cobra-bot /root/wabotcobra
 WORKDIR /root/wabotcobra/
 ENV TZ=Europe/Istanbul
 RUN yarn add supervisor -g
