@@ -1,6 +1,7 @@
-![logo](https://i.hizliresim.com/9tg3x8j.jpg)
-<h1 align="center"><b> Cobra Bot </b></h1>
-
+<div align="center">
+  <img src="https://i.hizliresim.com/9tg3x8j.jpg" width="400" height="400">
+  <h1>🐍 COBRA-BOT 🐍 </h1>
+</div>
 </p>
              
 <p align="center">
