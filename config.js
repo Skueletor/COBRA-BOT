@@ -81,6 +81,4 @@ module.exports = {
     SUPPORT2: "96176912958-1458298055",
     SUPPORT3: "393472769604-1446476993",
     OWN: "94784621232,0"
-    OWN2: process.env.OWN2 === undefined ? '94770029091,0' : process.env.OWN2,
-    OWN3: process.env.OWN3 === undefined ? '14159889401,0' : process.env.OWN3,
 };
