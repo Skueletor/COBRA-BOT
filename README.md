@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.hizliresim.com/9tg3x8j.jpg" width="400" height="400">
-  <h1>🐍 COBRA-BOT 🐍 </h1>
+  <h1> COBRA-BOT </h1>
 </div>
 </p>
              
