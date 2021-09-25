@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *COBRA-BOT*:  ```" + msg + "```"
+    return "✅ *COBRABOT*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *COBRA-BOT*:  ```" + msg + "```"
+    return "🛑 *COBRABOT*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *COBRA-BOT*:  ```" + msg + "```"
+    return "⏺️ *COBRABOT*:  ```" + msg + "```"
 }
 
 
